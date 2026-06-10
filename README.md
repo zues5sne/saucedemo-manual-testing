@@ -95,9 +95,9 @@ saucedemo-manual-testing/
 | Document | Description | Link |
 |---|---|---|
 | 📋 Requirement Analysis (RAD) | System analysis, 36 FR, 24 NFR, User Flow | [View](./docs/Requirement_Analysis.md) |
-| 📝 Test Plan | ISTQB standard — Scope, Strategy, Risks, Schedule | [View](./docs/TEST_PLAN.md) |
-| 🗂️ Test Scenario | 66 scenarios across 6 modules | [View](./docs/TEST_SCENARIO.md) |
-| ✅ Test Cases | 66 TC with Steps, Expected & Actual Result, Status | https://docs.google.com/spreadsheets/d/1GUGHixPVe79Ps2o31WBmLK5bxv0GZFHXjZ4ORwXpC8I/edit?usp=sharing |
+| 📝 Test Plan | ISTQB standard — Scope, Strategy, Risks, Schedule | [View](./docs/Test_plan.md) |
+| 🗂️ Test Scenario | 66 scenarios across 6 modules | [View](./docs/Test_Scenario.md) |
+| ✅ Test Cases | 66 TC with Steps, Expected & Actual Result, Status | [View](./testcase/SauceDemo_Testcase.xlsx) |
 | 🐛 Bug Report | BUG-001 detailed report | [View](./bug-reports/BUG-001.md) |
 | 📊 Test Summary | Final results, metrics, recommendations | [View](./test-summary/TEST_SUMMARY_REPORT.md) |
 
