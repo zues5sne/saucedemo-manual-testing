@@ -219,7 +219,7 @@ During testing, I discovered that:
 1. Start with **[RAD](./docs/RAD.md)** to understand the system
 2. Review **[Test Plan](./docs/TEST_PLAN.md)** for testing strategy
 3. Check **[Test Scenarios](./docs/TEST_SCENARIO.md)** for coverage overview
-4. Open **[Test Cases (Google Sheets)](<!-- điền link của bạn -->)** to see detailed execution
+4. Open **[Test Cases (Google Sheets)]([<!-- -->](https://docs.google.com/spreadsheets/d/1GUGHixPVe79Ps2o31WBmLK5bxv0GZFHXjZ4ORwXpC8I/edit?usp=sharing))** to see detailed execution
 5. Review **[BUG-001](./bug-reports/BUG-001.md)** for the confirmed defect
 6. Read **[Test Summary](./test-summary/TEST_SUMMARY_REPORT.md)** for final conclusions
 
