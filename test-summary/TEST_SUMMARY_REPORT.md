@@ -15,7 +15,7 @@
 
 | Total TC | Pass | Fail | Pass Rate | Status |
 |---|---|---|---|---|
-| 66 | 65 | 1 | 98.5% | ✅ PASSED with 1 minor defect |
+| 66 | 65 | 1 | 98.5% |  PASSED with 1 minor defect |
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## 5. Key Findings
 
-### What Works Well ✅
+### What Works Well 
 - Full E2E Happy Path completes without issues
 - All 4 sort options return correct product order
 - Cart state synchronized consistently across all pages
@@ -86,7 +86,7 @@
 
 **Overall:** 98.5% pass rate — system quality is high for standard_user flow.
 
-**Recommendation:** ✅ CONDITIONALLY APPROVED  
+**Recommendation:**  CONDITIONALLY APPROVED  
 Must fix BUG-001 (security) before release.  
 After fix, re-execute TC_012 and TC_063 for regression verification.
 
